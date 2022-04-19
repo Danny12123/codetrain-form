@@ -1,0 +1,155 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: lightsteelblue;
+}
+header {
+    align-items: center;
+    text-align: start;
+    margin: 10px 100px;
+    background-color: #eee;
+    border-top: 9px solid rgb(18, 18, 218);
+    border-radius: 5px;  
+}
+.main-header {
+    padding: 20px;
+}
+.main-header h1 {
+    padding-bottom: 10px;
+    align-items: center;
+    text-align: center;
+}
+header p {
+    padding-bottom: 5px;
+}
+.email {
+  margin-top: 20px;
+  padding: 10px 20px;
+}
+.email a {
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 200;
+    color: blue;
+}
+.email p {
+    font-family: arial;
+    color: rgb(41, 33, 33);
+}
+.email span {
+    color: red;
+}
+.main-email {
+    align-items: center;
+    text-align: start;
+    margin: 10px 100px;
+    background-color: #eee;
+    border-radius: 5px;  
+    height: 15vh;
+    
+}
+.main-email h5 {
+    padding: 20px;
+    font-family: arial;
+    font-size: 15px;
+}
+
+.main-email h4 span {
+    color: red;
+}
+.phone-email {
+    align-items: center;
+    text-align: start;
+    margin: 10px 100px;
+    background-color: #eee;
+    border-radius: 5px;  
+    height: 20vh;
+}
+.phone-email h6 {
+    padding: 20px;
+    font-family: arial;
+    font-size: 15px;
+}
+.phone-email p {
+    padding: 0  20px;
+    font-family: arial;
+}
+.phone-email input {
+    margin-left: 20px;
+    margin-top: 10px;
+    padding: 10px;
+    border: none;
+    border-bottom: solid black 1px;
+    width: 80%;
+}
+.main-email input {
+    margin-left: 20px;
+    padding: 10px;
+    border: none;
+    width: 80%;
+    border-bottom: solid black 1px;
+}
+.main-span {
+    align-items: center;
+    text-align: start;
+    margin: 10px 100px;
+    background-color: #eee;
+    border-radius: 5px;  
+    height: 25vh;
+}
+.main-span H5 {
+    padding: 20px 0 0 20px;
+    font-family: arial;
+    font-size: 15px;
+}
+.main-span .radio-1 {
+    margin-left: 20px;
+    margin-top: 15px;
+}
+.span {
+    color: red;
+}
+.main-span span {
+    
+    margin-left: 20px;
+}
+.main-email input:hover {
+    border: none;
+    border-bottom: solid blue 1px;
+}
+.link-box {
+    text-align: start;
+    align-items: center;
+    margin-left: 90px;
+    margin-bottom: 30px;
+}
+.link-box p {
+    margin-bottom: 30px;
+}
+.link-box .submit {
+    margin-top: 30px;
+    text-decoration: none;
+    padding: 10px 20px;
+    background-color: rgb(16, 16, 143);
+    border-radius: 2px;
+    color: #fff;
+    font-family: arial;
+}
+.link-box .Clear-form {
+    text-decoration: none;
+    margin-left: 400px;
+}
+
+.sec-2 {
+    background-color: aqua;
+    width: 40%;
+}
+.sec-3 {
+    background-color: #333;
+    width: 40%;
+    float: right;
+    float
+}
